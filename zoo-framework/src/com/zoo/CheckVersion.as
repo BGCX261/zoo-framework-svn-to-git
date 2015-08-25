@@ -1,0 +1,1 @@
+﻿/**  * ... * @author Marcelo Duende *  * @version 0.03 *  * @usage  * This class set the final version. *  * */package com.zoo{	public class CheckVersion	{		public const version:Number = 1.0;	}}
